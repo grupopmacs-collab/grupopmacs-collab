@@ -23,7 +23,7 @@
 En este espacio, compartimos nuestros proyectos colaborativos, donde aplicamos las últimas tecnologías en áreas como el desarrollo web, la inteligencia artificial y la arquitectura de software. Cada repositorio es una muestra de nuestro trabajo en equipo, aprendizaje continuo y dedicación por crear soluciones innovadoras.
 ¡Explora nuestros proyectos y acompáñanos en este viaje de desarrollo!
 
-### 💳 Tarjeta de resumen del perfil de GitHub
+### 💳 Tarjeta de resumen de nuestro perfil de GitHub
 
  <div align=center>
   
