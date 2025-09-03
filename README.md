@@ -23,11 +23,11 @@
 En este espacio, compartimos nuestros proyectos colaborativos, donde aplicamos las últimas tecnologías en áreas como el desarrollo web, la inteligencia artificial y la arquitectura de software. Cada repositorio es una muestra de nuestro trabajo en equipo, aprendizaje continuo y dedicación por crear soluciones innovadoras.
 ¡Explora nuestros proyectos y acompáñanos en este viaje de desarrollo!
 
-### 💳 Tarjeta de resumen de nuestro perfil de GitHub
+### 💳 Tarjeta de resumen del perfil de GitHub
 
  <div align=center>
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grupopmacs-collabH&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grupopmacs-collab&theme=github_dark)
   
  </div>
 
@@ -38,3 +38,5 @@ En este espacio, compartimos nuestros proyectos colaborativos, donde aplicamos l
 [![](https://github-readme-stats.vercel.app/api/top-langs?username=grupopmacs-collabH&show_icons=true&locale=en&layout=compact&theme=radical)]()  
   
  </div>
+
+ ---
