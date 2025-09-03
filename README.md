@@ -30,13 +30,3 @@ En este espacio, compartimos nuestros proyectos colaborativos, donde aplicamos l
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grupopmacs-collab&theme=github_dark)
   
  </div>
-
-### 📊 Lenguaje más Utilizado
-
- <div align=center>
-  
-[![](https://github-readme-stats.vercel.app/api/pin/?username=grupopmacs-collab&repo=sistema-web&theme=radical)]()
-
- </div>
-
- ---
