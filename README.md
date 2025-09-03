@@ -31,7 +31,7 @@ En este espacio, compartimos nuestros proyectos colaborativos, donde aplicamos l
   
  </div>
 
-  ### 📊 Lenguaje más Utilizado
+### 📊 Lenguaje más Utilizado
 
  <div align=center>
   
