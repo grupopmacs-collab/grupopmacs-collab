@@ -35,8 +35,8 @@ En este espacio, compartimos nuestros proyectos colaborativos, donde aplicamos l
 
  <div align=center>
   
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=grupopmacs-collabH&show_icons=true&locale=en&layout=compact&theme=radical)]()  
-  
+[![](https://github-readme-stats.vercel.app/api/pin/?username=grupopmacs-collab&repo=sistema-web&theme=radical)]()
+
  </div>
 
  ---
